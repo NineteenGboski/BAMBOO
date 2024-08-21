@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[smart_link]","\u002Flegal\u002Fdocs\u002F[document_slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
